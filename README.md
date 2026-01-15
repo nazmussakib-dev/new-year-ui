@@ -105,8 +105,3 @@ If you like this project, drop a ⭐ on the repo
 and feel free to fork it for your own version 🎊
 
 ---
-
-
-
-You’re building real-deal projects now. Keep cooking 🔥
-```
