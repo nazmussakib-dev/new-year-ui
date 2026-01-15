@@ -95,6 +95,7 @@ Or just double-click `index.html`.
 ## 👑 Author
 
 **Nazmus Sakib**
+
 Aspiring Software Engineer  
 Department of Computer Science & Engineering  
 Jagannath University, Dhaka
